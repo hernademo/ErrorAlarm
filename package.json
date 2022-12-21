@@ -1,0 +1,50 @@
+{
+  
+  "dependencies": {
+  
+    
+  "chai": "^4.3.7",
+  
+    
+  "chai-as-promised": "^7.1.1",
+  
+    
+  "express": "^4.18.1",
+  
+    
+  "moment": "^2.29.4"
+  
+  },
+  
+  "name": "AlarmsEvent",
+  
+  "version": "1.0.0",
+  
+  "main": "app.js",
+  
+  "scripts": {
+  
+    
+  "start": "node app.js",
+  
+    
+  "dev": "nodemon app.js",
+  
+    
+  "test": "jest --coverage"
+  
+  },
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": "",
+  
+  "devDependencies": {
+  
+    
+  "jest": "^29.3.1"
+  
+  }
+}
